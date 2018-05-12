@@ -1,0 +1,29 @@
+_repo: The-Boss-of-Wind-River_34775
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34775-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chisholm, A. M. (Arthur Murray)
+    alias: Chisholm, Arthur Murray
+    birthdate: 1872
+    deathdate: 1960
+    gutenberg_agent_id: '31535'
+    url: http://www.gutenberg.org/2009/agents/31535
+description: ''
+gutenberg_issued: '2010-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Lumber trade -- Fiction'
+- !lcsh 'Logging -- Fiction'
+title: The Boss of Wind River
+url: http://www.gutenberg.org/ebooks/34775
